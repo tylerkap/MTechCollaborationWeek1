@@ -1,0 +1,1 @@
+const kagesVariable = 'Kage'
