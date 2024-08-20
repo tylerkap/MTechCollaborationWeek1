@@ -6,7 +6,9 @@ body {
    align-items: center;
    justify-content: center;
    gap: 10px;
+   background-color:rgb(91, 91, 219);
 }
 h1, p {
     margin: 0px;
+    color:rgb(205, 50, 140);
 }
